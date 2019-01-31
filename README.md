@@ -1,2 +1,1 @@
 # keerthiVennila.github.io
-.githu
